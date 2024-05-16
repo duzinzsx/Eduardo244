@@ -20,3 +20,11 @@ nav a{
     text-transform: uppercase;
     color: black;
 }
+font-weight:bold;
+text-decoration: nome;
+}
+
+nav a:hover{
+    color: greenyellow
+    text-decoration:underline
+}
