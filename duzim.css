@@ -27,3 +27,8 @@ nav a:hover{
     color: greenyellow
     text-decoration:underline
 }
+
+nav li{display: inline;
+    margin: o o o 15px;
+}
+      
